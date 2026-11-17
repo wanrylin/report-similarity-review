@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+reports/
+submissions/
+results/
+audit/
+private/
+*.pdf
+*.docx
+*.zip
+*.html
